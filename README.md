@@ -1,11 +1,17 @@
 # About Me 👋
-<p> Hi I'm Wei Wen :3 </p>
-<p> Final Year Software Engineering Undergraduate @ Sunway / Lancaster University </p>
-<p> Seeking Internship from Jan - Apr 26 </p>
-<p>🖇️ Let's Connect! 
+
+<p align="center">
+Hi I'm Wei Wen :3 
+Final Year Software Engineering Undergraduate @ Sunway / Lancaster University
+Seeking Internship from Jan - Apr 26 
+🖇️ Let's Connect! 
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 </p>
+
+<br>
 
 ## Tech Stacks 💻 
 ### Languages & Development 🧠
@@ -30,20 +36,4 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
-
-<!--
-**ww0228/ww0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
