@@ -32,7 +32,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&langs_count=6&layout=compact)
 
 
 <!--
