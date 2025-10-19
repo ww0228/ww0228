@@ -2,8 +2,7 @@
 <p> Hi I'm Wei Wen :3 </p>
 <p> Final Year Software Engineering Undergraduate @ Sunway / Lancaster University </p>
 <p> Seeking Internship from Jan - Apr 26 </p>
-<p>🖇️ Let's Connect! </br>
-
+<p>🖇️ Let's Connect! 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan) 
 </p>
 
@@ -30,9 +29,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
 
 <!--
