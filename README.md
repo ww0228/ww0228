@@ -1,5 +1,4 @@
 # 👋 About Me  
-<div align="center">
 Hi, I'm Wei Wen :3  
 Final Year Software Engineering Undergraduate @ Sunway / Lancaster University  
 Seeking Internship from Jan – Apr 2026
@@ -7,11 +6,7 @@ Seeking Internship from Jan – Apr 2026
 🖇️ Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan)  
 
-<br>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
-
-</div>
 
 ## Tech Stacks 💻 
 ### Languages & Development 🧠
