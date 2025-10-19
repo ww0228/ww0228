@@ -1,6 +1,5 @@
-<div align="center">
-
 # 👋 About Me  
+<div align="center">
 Hi, I'm Wei Wen :3  
 Final Year Software Engineering Undergraduate @ Sunway / Lancaster University  
 Seeking Internship from Jan – Apr 2026
