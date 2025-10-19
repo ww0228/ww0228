@@ -3,7 +3,8 @@
 <p> Final Year Software Engineering Undergraduate @ Sunway / Lancaster University </p>
 <p> Seeking Internship from Jan - Apr 26 </p>
 <p>🖇️ Let's Connect! 
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan) 
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan) 
 </p>
 
 ## Tech Stacks 💻 
