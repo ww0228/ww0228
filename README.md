@@ -4,8 +4,12 @@
 <p> Seeking Internship from Jan – Apr 2026 </p>  
 <p> 🖇️ Let's Connect! </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-wen-tan) 
+<br>
+
+--- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
+--- 
 
 ## Tech Stacks 💻 
 ### Languages & Development 🧠
