@@ -8,9 +8,6 @@
 <br>
 
 ## Tech Stacks 💻 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
-
 ### Languages & Development 🧠
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,4 +30,5 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ww0228&theme=graywhite&show_icons=true&hide_border=false&layout=compact)
 
